@@ -1,6 +1,8 @@
 # Readme
 ![enter image description here](https://miro.medium.com/proxy/1*6h1kck2QmGaC89ERN_W3UA.jpeg)
-##**Getting Started**
+
+## **Getting Started**
+
 How to install RoR(Ruby On Rails) on Windows [[https://guides.rubyonrails.org/getting_started.html](https://guides.rubyonrails.org/getting_started.html)]
 
 
@@ -35,3 +37,4 @@ Things you may want to cover:
 -   Deployment instructions
     
 -   ...
+
