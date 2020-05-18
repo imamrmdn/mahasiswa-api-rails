@@ -3,12 +3,20 @@
 
 ## **Getting Started**
 
-How to install RoR(Ruby On Rails) on Windows [[https://guides.rubyonrails.org/getting_started.html](https://guides.rubyonrails.org/getting_started.html)]
+How to install RoR(Ruby On Rails) [[https://guides.rubyonrails.org/getting_started.html](https://guides.rubyonrails.org/getting_started.html)]
 
 
 **Rails Install**
 
     gem install rails
+    
+**Rails Install new project**
+
+    rails new project
+
+**Rails Install new project with API**
+
+    rails new project --api -d mysql
 
 **API Endpoint**
 
